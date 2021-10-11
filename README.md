@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @USSthunder
 - 👀 I’m interested in areospace 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on mk48.io,xplane 11, space type
+- 💞️ I’m looking to collaborate on mk48.io,xplane 12, space type
 - 📫 How to reach me bowlesbunchboise@gmail.com
 
 <!---
